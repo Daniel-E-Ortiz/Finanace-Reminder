@@ -3,3 +3,4 @@ The Finance Reminder App reminds every day people like me to update them on thei
 
 
 <h2>GOALS</h2>
+  <ul>test</ul>
